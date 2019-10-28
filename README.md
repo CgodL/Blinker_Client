@@ -2,7 +2,7 @@
 
 This is a simple games can play by blinking your eyes.
 
-![Blinker](https://codestates-blinker.ml/)
+[Blinker](https://codestates-blinker.ml/)
 
 ## Install
 
