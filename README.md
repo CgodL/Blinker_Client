@@ -2,7 +2,7 @@
 
 This is a simple games can play by blinking your eyes.
 
-> Blinker 게임 링크 : [Blinker](https://codestates-blinker.ml/)
+> Blinker 게임 링크 : [Blinker](https://d3hj5v0x0oqu9l.cloudfront.net/)
 
 
 <hr />
